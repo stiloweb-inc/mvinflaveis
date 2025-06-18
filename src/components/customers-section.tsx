@@ -5,37 +5,37 @@ export function CustomersSection() {
 		{
 			id: 1,
 			name: 'SEST',
-			image: '/src/assets/customers/sest.png',
+			image: '/customers/sest.png',
 		},
 		{
 			id: 2,
 			name: 'MRV',
-			image: '/src/assets/customers/mrv.jpg',
+			image: '/customers/mrv.jpg',
 		},
 		{
 			id: 3,
 			name: 'Mariza',
-			image: '/src/assets/customers/mariza.png',
+			image: '/customers/mariza.png',
 		},
 		{
 			id: 4,
 			name: 'Bom Leite',
-			image: '/src/assets/customers/bomleite.png',
+			image: '/customers/bomleite.png',
 		},
 		{
 			id: 5,
 			name: 'Refreskant',
-			image: '/src/assets/customers/refreskant.png',
+			image: '/customers/refreskant.png',
 		},
 		{
 			id: 6,
 			name: 'Bump',
-			image: '/src/assets/customers/bump.png',
+			image: '/customers/bump.png',
 		},
 		{
 			id: 7,
 			name: 'SESI',
-			image: '/src/assets/customers/sesi.jpg',
+			image: '/customers/sesi.jpg',
 		},
 	]
 

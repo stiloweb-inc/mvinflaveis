@@ -1,9 +1,4 @@
 import { Button } from '../ui/button'
-
-import InstagramIcon from '@/assets/icons/instagram-icon.svg'
-import FacebookIcon from '@/assets/icons/facebook-icon.svg'
-import LinkedInIcon from '@/assets/icons/linkedin-icon.svg'
-import WhatsAppIcon from '@/assets/icons/whatsapp-icon.svg'
 import { Label } from '../ui/label'
 
 export function Footer() {
@@ -22,7 +17,7 @@ export function Footer() {
 							className='hover:scale-120 transition duration-400'
 						>
 							<img
-								src={InstagramIcon}
+								src='/icons/instagram.svg'
 								alt='INSTAGRAM'
 								className='size-4'
 							/>
@@ -32,7 +27,7 @@ export function Footer() {
 							className='hover:scale-120 transition duration-400'
 						>
 							<img
-								src={FacebookIcon}
+								src='/icons/facebook.svg'
 								alt='FACEBOOK'
 								className='size-4'
 							/>
@@ -42,7 +37,7 @@ export function Footer() {
 							className='hover:scale-120 transition duration-400'
 						>
 							<img
-								src={LinkedInIcon}
+								src='/icons/linkedin.svg'
 								alt='LINKEDIN'
 								className='size-4'
 							/>
@@ -52,7 +47,7 @@ export function Footer() {
 							className='hover:scale-120 transition duration-400'
 						>
 							<img
-								src={WhatsAppIcon}
+								src='/icons/whatsapp.svg'
 								alt='WHATSAPP'
 								className='size-4'
 							/>

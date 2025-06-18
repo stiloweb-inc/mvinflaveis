@@ -2,11 +2,11 @@ import { IconTicket } from '@tabler/icons-react'
 
 export function EventsSection() {
 	const events = [
-		{ id: 1, image: '/src/assets/events/1.png' },
-		{ id: 2, image: '/src/assets/events/2.png' },
-		{ id: 3, image: '/src/assets/events/3.png' },
-		{ id: 4, image: '/src/assets/events/4.png' },
-		{ id: 5, image: '/src/assets/events/5.png' },
+		{ id: 1, image: '/events/1.png' },
+		{ id: 2, image: '/events/2.png' },
+		{ id: 3, image: '/events/3.png' },
+		{ id: 4, image: '/events/4.png' },
+		{ id: 5, image: '/events/5.png' },
 	]
 
 	return (
