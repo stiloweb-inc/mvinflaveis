@@ -1,0 +1,58 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"nome": "Túnel Inflável",
+			"descricao": "Destaque para entradas de eventos e ativações esportivas.",
+			"material": "Nylon 240 com PVC",
+			"tamanhos": "Personalizáveis",
+			"destaque": "Impacto visual e funcionalidade para controle de fluxo de pessoas."
+		},
+		{
+			"id": 2,
+			"nome": "Tenda Inflável Personalizada",
+			"descricao": "Perfeita para estandes e ativações de marca.",
+			"material": "Nylon 240 com PVC",
+			"estrutura": "Com ou sem iluminação interna",
+			"destaque": "Proteção solar e ampla área de personalização."
+		},
+		{
+			"id": 3,
+			"nome": "Totem Inflável",
+			"descricao": "Modelo vertical e cilíndrico para promoções em ambientes variados.",
+			"material": "Nylon 240 com PVC",
+			"altura": "Personalizável",
+			"destaque": "Fácil de instalar e transportar, ideal para eventos e PDVs."
+		},
+		{
+			"id": 4,
+			"nome": "Réplicas Infláveis Personalizadas",
+			"descricao": "Ideal para representar produtos em tamanho gigante.",
+			"material": "Nylon 240 com PVC",
+			"uso": "Eventos, lançamentos, ações promocionais",
+			"destaque": "Atrai atenção e gera engajamento com o público."
+		},
+		{
+			"id": 5,
+			"nome": "Roof Top Inflável",
+			"descricao": "Balão inflável criativo, ideal para campanhas promocionais urbanas.",
+			"altura": "A partir de 2 m",
+			"material": "Nylon 240 com PVC (alta resistência)",
+			"destaques": [
+				"Iluminação interna",
+				"Impressão digital em todas as faces",
+				"Banners com velcro substituíveis"
+			],
+			"destaque_adicional": "Pode ser instalado em marquises, pátios e lajes."
+		},
+		{
+			"id": 6,
+			"nome": "Wind Banner - Modelo Faca",
+			"descricao": "Ideal para divulgação externa e interna (feiras, comércios, praias e eventos).",
+			"altura_geral": ["2,5 m", "3,5 m", "4,2 m"],
+			"tecido": "Oxford",
+			"impressao": "Face Única ou Dupla Face",
+			"destaque": "Leve, prático e de grande impacto visual."
+		}
+	]
+}
